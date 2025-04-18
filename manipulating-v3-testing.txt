@@ -1,0 +1,19 @@
+String manipulation program
+1. Indexing strings
+2. Concatenate strings
+3. Convert string to int
+4. Tokenizing words
+5. Measure string
+6. Compare strings
+7. Convert string to double
+8. Tokenize phrase
+9. Copying a string
+10. Find a substring
+11. Convert string to long
+12. Tokenize sentence
+0. Exit
+Enter your choice: 10
+Enter a string no longer than 50 chars: Tester
+Enter a substring to search for: t
+The substring was found at index 3.
+The substring is: ter
